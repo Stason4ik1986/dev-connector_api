@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://stas_cherednichenko:stas1986@devconnector.yrto7.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubSecret": "f81eeef29e8f37717357a0c41df1a5f2c694a81c",
+    "githubClientId": "411f4ebd8c9c8c05ff26"
+}
